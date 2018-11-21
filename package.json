@@ -1,0 +1,11 @@
+{
+  "name": "hygen-tutorial",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:koga1020/hygen-tutorial.git",
+  "author": "koga1020 <koga.shozo1020@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "hygen": "^1.6.2"
+  }
+}
